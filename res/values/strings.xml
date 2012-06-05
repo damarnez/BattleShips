@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+ 
+<resources>
+   
+    <string name="application_name">Battle Ships</string>
+    <string name="activity_sample_code">ABS: Fragments</string>
+	<string-array name="array_options_menu">
+        <item>Play (Internet)</item>
+        <item>Play (Bluethood)</item>
+        <item>High Scores</item>
+        <item>Instructions</item>
+        <item>About</item>
+        <item>Exit</item>
+    </string-array>
+    
+     
+     <string name="button_no">Cancel</string>	
+	 <string name="button_yes">Ok</string>	
+	 <string name="dialog_exit_label">Do you want to log out?</string>
+     <string name="dialog_info_title">Info</string>	
+     <string name="dialog_info_message">Developer : Daniel Martin Jimenez (Challenger07)\n - I like play saxofone\n - I\'m a collaborator from radio program (ControlZ all mondays 99.7 fm)\n - I like motorbike custom   </string>	
+	 <string name="dialog_instructions_title">Instructions</string>
+	 <string name="dialog_instructions_text">Memory is a card game designed for two people, although single player modes are available. Cards are laid out in a grid face down, and players take turns flipping pairs of cards over. On each turn, the player will first turn one card over, then a second. If the two cards match, the player scores one point, the two cards are removed from the game, and the player gets another turn. If they do not match, the cards are turned back over.The object is to match more pairs of cards than the opposing player. (One point is scored for each matched pair, and the player with the highest score after all cards have been matched wins.) When cards are turned over, it is important to remember where they are for when the matching card is turned up later in the game.</string>
+	 <string name="dialog_about_title">About</string>
+     
+	<!--  BluetoothChat -->
+    <string name="send">Send</string>
+    <string name="not_connected">You are not connected to a device</string>
+    <string name="bt_not_enabled_leaving">Bluetooth was not enabled. Leaving Bluetooth Chat.</string>
+    <string name="title_connecting">connecting...</string>
+    <string name="title_connected_to">connected: </string>
+    <string name="title_not_connected">not connected</string>
+
+    <!--  DeviceListActivity -->
+    <string name="scanning">scanning for devices...</string>
+    <string name="select_device">select a device to connect</string>
+    <string name="none_paired">No devices have been paired</string>
+    <string name="none_found">No devices found</string>
+    <string name="title_paired_devices">Paired Devices</string>
+    <string name="title_other_devices">Other Available Devices</string>
+    <string name="button_scan">Scan for devices</string>
+
+    <!-- Options Menu -->
+    <string name="connect">Connect a device</string>
+    <string name="discoverable">Make discoverable</string>
+</resources>

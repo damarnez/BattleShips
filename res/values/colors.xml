@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2007 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+  
+          http://www.apache.org/licenses/LICENSE-2.0
+  
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+
+<resources>
+    <color name="RED">#FF0000</color>
+	<color name="RED_BACKGROUND">#E60D0D</color>
+	<color name="GREEN">#00FF00</color>
+	<color name="BLUE">#0000FF</color>
+	<color name="YELLOW">#FFFF00</color>
+	<color name="WHITE">#FFFFFF</color>
+	<color name="BLACK">#000000</color>
+	<color name="GREY">#7F7F7F</color>
+	<color name="DARK_GREY">#565656</color>
+	<color name="LIGHT_GREY">#C4C4C4</color>
+	<color name="BLACK_TRANSPARENT">#99000000</color>
+	<color name="BLACK_BLACK_TRANSPARENT">#BB000000</color>
+	<color name="BLUE_CIAN">#e5f7fb</color>
+	<color name="TRANSPARENT">#00000000</color>
+	 	 
+	<color name="wather">#56d2e9</color>
+</resources>
